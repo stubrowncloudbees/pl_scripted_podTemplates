@@ -1,3 +1,4 @@
+@Library('stu_lib')
 import com.foo.utils.PodTemplates
 
 slaveTemplates = new PodTemplates()
