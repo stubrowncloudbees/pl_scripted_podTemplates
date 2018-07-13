@@ -1,5 +1,4 @@
-@Library('stulib')
-import org.stubrown.utils.PodTemplates
+import com.foo.utils.PodTemplates
 
 slaveTemplates = new PodTemplates()
 
