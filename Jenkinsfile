@@ -1,3 +1,4 @@
+@Library('stulib')
 import org.stubrown.utils.PodTemplates
 
 slaveTemplates = new PodTemplates()
